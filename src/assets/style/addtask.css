@@ -1,0 +1,15 @@
+div.addTask input[type="number"] {
+  text-align : right;
+  width : 50px;
+}
+div.addTask input[type="text"] {
+  width : 200px;
+  text-align: left;
+}
+
+div.addTask {
+  background-color : rgba(17, 17, 17, 0.739);
+  border : 2px solid rgba(17, 17, 17, 0.842);
+  border-radius:10px;
+  text-align: center;
+}
